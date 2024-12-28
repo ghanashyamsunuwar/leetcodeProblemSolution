@@ -1,5 +1,5 @@
 
-//for leet code 
+//for leet code problem solve
 /**
  * @param {number[]} nums
  * @param {number} target
